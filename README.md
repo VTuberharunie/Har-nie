@@ -273,7 +273,7 @@
                 <div class="vtuber-card">
                     <img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349404034200506368/IMG_20250226_035752_687.webp?ex=67d2f9f0&is=67d1a870&hm=103e26a1542e7625cb0d976ddba93c4233eab3945fafa946780da87ddf016549&" alt="Felix" class="vtuber-image">
                     <div class="vtuber-info">
-                        <h3 class="vtuber-name">Felix kato</h3>
+                        <h3 class="vtuber-name">Felix Kato</h3>
                         <div class="vtuber-role">VTuber/ Digital Artist / Gamer </div>
                         <p class="vtuber-description">The Ghostly Guardian of the Internet Café</p>
                         <div class="social-links">
