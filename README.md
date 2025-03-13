@@ -386,7 +386,7 @@
                         <td style="padding: 10px; border: 1px solid #ddd;">14:00</td>
                         <td style="padding: 10px; border: 1px solid #ddd;">14:00</td>
                         <td style="padding: 10px; border: 1px solid #ddd;">14:00</td>
-                        <td style="padding: 10px; border: 1px solid #ddd;">14:00</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">13:00</td>
                         <td style="padding: 10px; border: 1px solid #ddd;">Optional</td>
                         <td style="padding: 10px; border: 1px solid #ddd;">Optional</td>
                     </tr>
