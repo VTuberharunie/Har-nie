@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Harunio VTuber Group</title>
+    <title>HARŪNIE VTuber Group</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -211,7 +211,7 @@
     
     <section class="hero" id="home">
         <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
-            <h1>Welcome to Harunie VTuber Group</h1>
+            <h1>Welcome to HARŪNIE VTuber Group</h1>
             <p>Discover our amazing virtual talents bringing joy and entertainment to fans worldwide!</p>
         </div>
     </section>
@@ -274,7 +274,7 @@
                     <img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349404034200506368/IMG_20250226_035752_687.webp?ex=67d2f9f0&is=67d1a870&hm=103e26a1542e7625cb0d976ddba93c4233eab3945fafa946780da87ddf016549&" alt="Felix" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Felix kato</h3>
-                        <div class="vtuber-role">VTuber/ Digital Artis / Gamer </div>
+                        <div class="vtuber-role">VTuber/ Digital Artist / Gamer </div>
                         <p class="vtuber-description">The Ghostly Guardian of the Internet Café</p>
                         <div class="social-links">
                             <a href="https://youtube.com/@felix_kato?si=OKUX7_dnAsQjA93E" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
@@ -323,7 +323,7 @@
                 <div class="vtuber-info">
                     <h3 class="vtuber-name">Danny Miraistar </h3>
                     <div class="vtuber-role">VTuber / Gamer</div>
-                    <p class="vtuber-description">Coco is a forest spirit who enjoys a variety of content, especially cooking streams. Her positive energy is contagious!</p>
+                    <p class="vtuber-description">a High Human who loves discovering and exploring japanese event on Earth</p>
                     <div class="social-links">
                         <a href="https://youtube.com/@dannyvtuberid5276?si=OmGDkHLw1OGoz2GE" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
                         <a href="https://x.com/DannyVtuberID?t=9HHmk-DezkMoh5E9DONOfw&s=09" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719134871623/X.png?ex=67d31772&is=67d1c5f2&hm=0b5b0213c7ef5158764dcd37966ef0469f5090a71e59f65f7476035f7283704f&" alt="Twitter" style="width: 20px;"></a>
