@@ -193,7 +193,7 @@
 <body>
     <header>
         <div class="center" style="display: flex; justify-content: space-between; align-items: center;">          
-            <img src="https://drive.google.com/file/d/12__SN-yX-3w7t6wxCcZAwbplerosYguH/view?usp=drive_link" alt="Harunie Logo" style="height: 200px; margin-right: 100px;">
+            <img src="https://cdn.discordapp.com/attachments/812966246806192128/1349761905639555153/Simple_Modern_Minimalist_Circle_Design_Studio_Logo.png?ex=67d4473b&is=67d2f5bb&hm=f9c257dca624f7bbdaf047f83f9b2f488b702a4f059c952a76ad370a93780e9e&" alt="Harunie Logo" style="height: 200px; margin-right: 100px;">
         </div>
     </header>
     
