@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -315,7 +315,7 @@
                         </div>
                     </div>
                 </div>
-            
+            </div>
 
              <!-- VTuber 7 -->
              <div class="vtuber-card">
@@ -332,6 +332,7 @@
                     </div>
                 </div>
             </div>
+        </div>
     </section>
         </section>
         
