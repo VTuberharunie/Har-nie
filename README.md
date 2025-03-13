@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -332,8 +332,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
         </section>
         
         <section id="schedule" class="schedule">
