@@ -332,8 +332,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
         </section>
         
         <section id="schedule" class="schedule">
