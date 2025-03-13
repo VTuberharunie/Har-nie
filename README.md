@@ -382,13 +382,13 @@
                     </tr>
                     <tr>
                         <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">Rizky Kyoya</td>
-                        <td style="padding: 10px; border: 1px solid #ddd;">-</td>
-                        <td style="padding: 10px; border: 1px solid #ddd;">-</td>
-                        <td style="padding: 10px; border: 1px solid #ddd;">-</td>
-                        <td style="padding: 10px; border: 1px solid #ddd;">-</td>
-                        <td style="padding: 10px; border: 1px solid #ddd;">-</td>
-                        <td style="padding: 10px; border: 1px solid #ddd;">-</td>
-                        <td style="padding: 10px; border: 1px solid #ddd;">-</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">14:00</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">14:00</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">14:00</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">14:00</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">14:00</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">Optional</td>
+                        <td style="padding: 10px; border: 1px solid #ddd;">Optional</td>
                     </tr>
                     <tr>
                         <td style="padding: 10px; border: 1px solid #ddd; font-weight: bold;">Ryuga Ranjaya</td>
