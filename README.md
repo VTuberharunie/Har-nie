@@ -274,7 +274,7 @@
                     <img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349404034200506368/IMG_20250226_035752_687.webp?ex=67d2f9f0&is=67d1a870&hm=103e26a1542e7625cb0d976ddba93c4233eab3945fafa946780da87ddf016549&" alt="Felix" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Felix Kato</h3>
-                        <div class="vtuber-role">VTuber/ Digital Artist / Gamer </div>
+                        <div class="vtuber-role">VTuber/ Gamer / Digital Artist </div>
                         <p class="vtuber-description">The Ghostly Guardian of the Internet Café</p>
                         <div class="social-links">
                             <a href="https://youtube.com/@felix_kato?si=OKUX7_dnAsQjA93E" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
