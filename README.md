@@ -192,7 +192,7 @@
 </head>
 <body>
     <header>
-        <div class="center" style="display: flex; justify-content: space-between; align-items: center;">          
+        <div class="center" style="display: flex; justify-content: center; align-items: center;">          
             <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350186993019261088/HARUNIE_1.png?ex=67d5d320&is=67d481a0&hm=88ee16f82aecd510b053a23b30c7a64b8236c4ee3936d7a138f81ed5816c169c&" alt="Harunie Logo" style="height: 200px; margin-right: 100px;">
         </div>
     </header>
