@@ -21,13 +21,11 @@
         header {
             background: #f9f9f9;
             color: white;
-            padding: 20px 0;
+            padding: 15px 0;
             text-align: center;
         }
         
-        .logo {
-            font-size: 32px;
-            font-weight: bold;
+
         }
         
         nav {
@@ -55,7 +53,7 @@
         }
         
         .menu a:hover {
-            text-decoration: underline;
+            text-decoration: none;
         }
         
         .hero {
