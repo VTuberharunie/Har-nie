@@ -105,7 +105,7 @@
         .vtuber-image {
             width: 100%;
             height: 250px;
-            object-fit: center;
+            object-fit: cover;
         }
         
         .vtuber-info {
