@@ -223,7 +223,7 @@
             <div class="vtubers-grid">
                 <!-- VTuber 1 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349406525860610138/IMG_1094.png?ex=67d2fc42&is=67d1aac2&hm=e5959ea30abfd1d6f5050233ffcbadedc2421a15212ea10343f0ca0239fb6b29&" alt="Ryuga Ranjaya" class="vtuber-image">
+                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208575179587735/IMG_1094.png?ex=67d5e739&is=67d495b9&hm=ef457c0aba708a40f68f8365113122754da8e86a30287d9c8e83c2aee077c57a&" alt="Ryuga Ranjaya" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Ryuga Ranjaya</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
@@ -239,7 +239,7 @@
                 
                 <!-- VTuber 2 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349405408380452985/Naana_milktea.png?ex=67d2fb38&is=67d1a9b8&hm=1d18b4a05eb3b67dc80a5e5a430092260ec9eece8aeff1cf02c5644c891f61e7&" alt="Nana" class="vtuber-image">
+                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208620062576700/Naana_milktea.png?ex=67d5e744&is=67d495c4&hm=b8aa0d6cd765aecb4521b328d0f990a253dd2185df51e32a644a2a14d6d91981&" alt="Nana" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Kokona Naana</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
@@ -271,7 +271,7 @@
                 
                 <!-- VTuber 4 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349404034200506368/IMG_20250226_035752_687.webp?ex=67d2f9f0&is=67d1a870&hm=103e26a1542e7625cb0d976ddba93c4233eab3945fafa946780da87ddf016549&" alt="Felix" class="vtuber-image">
+                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208740783161426/IMG_20250226_035752_687.webp?ex=67d5e761&is=67d495e1&hm=f233857c6a98851c90d7ad37f82f1ec3b603bd642e2ef1619f13b865fbcc42ab&" alt="Felix" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Felix Kato</h3>
                         <div class="vtuber-role">VTuber/ Gamer / Digital Artist </div>
@@ -302,7 +302,7 @@
                 
                 <!-- VTuber 6 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349404636712276159/Aduh_gantengnyaaa....jpg?ex=67d2fa80&is=67d1a900&hm=6bf490f1ecd55b1a945e7db83d8e39c15b3dfd7de485bb0763bd67f359d7bb98&" alt="Coco" class="vtuber-image">
+                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208708009000980/Aduh_gantengnyaaa....jpg?ex=67d5e759&is=67d495d9&hm=37e5badd7e88262c0c79f723f05944afd0a938482803ca8f9eb13f26f26188a2&" alt="Coco" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Coconatsu</h3>
                         <div class="vtuber-role">VTuber / Horror / Cooking</div>
@@ -319,7 +319,7 @@
 
              <!-- VTuber 7 -->
              <div class="vtuber-card">
-                <img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349495514152046763/Ehehemmmnn___art_by___Elysiaa_-__phourw_WEBP.webp?ex=67d34f22&is=67d1fda2&hm=56f7b0058232da104fb346bc3184a53cbe0f332d8507edca10e4c383863b2a12&" alt="Coco" class="vtuber-image">
+                <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208458363764888/Ehehemmmnn___art_by___Elysiaa_-__phourw_WEBP.webp?ex=67d5e71e&is=67d4959e&hm=e5906a304f1ec1e1396607d4c469ef91b63f80cdbeb02ac07bd1e722445a786a&" alt="Danny" class="vtuber-image">
                 <div class="vtuber-info">
                     <h3 class="vtuber-name">Danny Miraistar </h3>
                     <div class="vtuber-role">VTuber / Gamer</div>
