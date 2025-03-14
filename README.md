@@ -94,8 +94,6 @@
             background-color: white;
             border-radius: 10px;
             overflow: hidden;
-            width: 100%;
-            height: 550px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease;
         }
@@ -204,6 +202,7 @@
             <ul class="menu">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#vtubers">VTubers</a></li>
+                <li><a href="#content">Content</a></li>
                 <li><a href="#schedule">Schedule</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
@@ -307,7 +306,7 @@
                     <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208708009000980/Aduh_gantengnyaaa....jpg?ex=67d5e759&is=67d495d9&hm=37e5badd7e88262c0c79f723f05944afd0a938482803ca8f9eb13f26f26188a2&" alt="Coco" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Coconatsu</h3>
-                        <div class="vtuber-role">VTuber / Horror / Cooking</div>
+                        <div class="vtuber-role">VTuber / Gamer / Cooker</div>
                         <p class="vtuber-description">A Cruel Darklord who comes from the Depths of the Abyss</p>
                         <div class="social-links">
                             <a href="https://www.youtube.com/@KokoNatsuuu" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube" style="width: 20px;"></a>
