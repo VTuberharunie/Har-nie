@@ -25,7 +25,9 @@
             text-align: center;
         }
         
-
+        .logo {
+            font-size: 32px;
+            font-weight: bold;
         }
         
         nav {
