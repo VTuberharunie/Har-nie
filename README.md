@@ -193,7 +193,7 @@
 <body>
     <header>
         <div class="center" style="display: flex; justify-content: space-between; align-items: center;">          
-            <img src="https://cdn.discordapp.com/attachments/812966246806192128/1349761905639555153/Simple_Modern_Minimalist_Circle_Design_Studio_Logo.png?ex=67d598bb&is=67d4473b&hm=051920138f35317b1489f7f8910e4e73e97e602800c71224e3022a0fc3f18005&" alt="Harunie Logo" style="height: 200px; margin-right: 100px;">
+            <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350186993019261088/HARUNIE_1.png?ex=67d5d320&is=67d481a0&hm=88ee16f82aecd510b053a23b30c7a64b8236c4ee3936d7a138f81ed5816c169c&" alt="Harunie Logo" style="height: 200px; margin-right: 100px;">
         </div>
     </header>
     
@@ -229,10 +229,10 @@
                         <div class="vtuber-role">VTuber / Gamer</div>
                         <p class="vtuber-description">Ryuga Ranjaya is the Spirit Wolf King tasked with maintaining the balance of the world.</p>
                         <div class="social-links">
-                            <a href="https://youtube.com/@ryugaranjaya?si=P5IptDy9svmC4Gyx" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
-                            <a href="https://twitter.com/RyugaRanjayaa?t=MiGvSFFbUYrJTBBUf4F5FQ&s=09" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719134871623/X.png?ex=67d31772&is=67d1c5f2&hm=0b5b0213c7ef5158764dcd37966ef0469f5090a71e59f65f7476035f7283704f&" alt="Twitter" style="width: 20px;"></a>
-                            <a href="https://www.instagram.com/ryugaranjaya" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719587725333/IG.png?ex=67d31772&is=67d1c5f2&hm=7c027b2fe3baf159eb33f89f0bb5fa757033dca04cdd6423bf6e17048b7cda96&" alt="Instagram" style="width: 20px;"></a>
-                            <a href="https://www.tiktok.com/@ryugaranjaya" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720602746923/TT.png?ex=67d31773&is=67d1c5f3&hm=0522f8977251b11098bcd5fabd90956fc5f2d5e39ba99ac9f36c53bfe6d36e65&" alt="TikTok" style="width: 20px;"></a>
+                            <a href="https://youtube.com/@ryugaranjaya?si=P5IptDy9svmC4Gyx" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube" style="width: 20px;"></a>
+                            <a href="https://twitter.com/RyugaRanjayaa?t=MiGvSFFbUYrJTBBUf4F5FQ&s=09" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853226946593/2.png?ex=67d5d983&is=67d48803&hm=81ad7a1a422f41d87d067d5e5a7125a16201e8cfde1bf625f01573fa0993256c&" alt="Twitter" style="width: 20px;"></a>
+                            <a href="https://www.instagram.com/ryugaranjaya" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853696835624/3.png?ex=67d5d984&is=67d48804&hm=411e0a8a5a76e1787b5d318afb0cba7f9cd6aa62018b79f16d918b40e6e690ea&" alt="Instagram" style="width: 20px;"></a>
+                            <a href="https://www.tiktok.com/@ryugaranjaya" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854413930557/5.png?ex=67d5d984&is=67d48804&hm=971b461097ad8fba1e4a681d65b4b6c56a50420355264313d98f5914b98bb006&" alt="TikTok" style="width: 20px;"></a>
                         </div>
                     </div>
                 </div>
@@ -245,10 +245,10 @@
                         <div class="vtuber-role">VTuber / Gamer</div>
                         <p class="vtuber-description">An ordinary college student</p>
                         <div class="social-links">
-                            <a href="https://www.youtube.com/channel/UC6kz3lJaZY4wV6olyeZ8nNA" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
-                            <a href="https://x.com/naanakokona" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719134871623/X.png?ex=67d31772&is=67d1c5f2&hm=0b5b0213c7ef5158764dcd37966ef0469f5090a71e59f65f7476035f7283704f&" alt="Twitter" style="width: 20px;"></a>
-                            <a href="https://www.instagram.com/kokonaana._.dayo?igsh=MWwyZjFod2s4dDQyeQ%3D%3D" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719587725333/IG.png?ex=67d31772&is=67d1c5f2&hm=7c027b2fe3baf159eb33f89f0bb5fa757033dca04cdd6423bf6e17048b7cda96&" alt="Instagram" style="width: 20px;"></a>
-                            <a href="https://www.tiktok.com/@kokowanaana" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720602746923/TT.png?ex=67d31773&is=67d1c5f3&hm=0522f8977251b11098bcd5fabd90956fc5f2d5e39ba99ac9f36c53bfe6d36e65&" alt="TikTok" style="width: 20px;"></a>
+                            <a href="https://www.youtube.com/channel/UC6kz3lJaZY4wV6olyeZ8nNA" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube" style="width: 20px;"></a>
+                            <a href="https://x.com/naanakokona" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853226946593/2.png?ex=67d5d983&is=67d48803&hm=81ad7a1a422f41d87d067d5e5a7125a16201e8cfde1bf625f01573fa0993256c&" alt="Twitter" style="width: 20px;"></a>
+                            <a href="https://www.instagram.com/kokonaana._.dayo?igsh=MWwyZjFod2s4dDQyeQ%3D%3D" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853696835624/3.png?ex=67d5d984&is=67d48804&hm=411e0a8a5a76e1787b5d318afb0cba7f9cd6aa62018b79f16d918b40e6e690ea&" alt="Instagram" style="width: 20px;"></a>
+                            <a href="https://www.tiktok.com/@kokowanaana" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854413930557/5.png?ex=67d5d984&is=67d48804&hm=971b461097ad8fba1e4a681d65b4b6c56a50420355264313d98f5914b98bb006&" alt="TikTok" style="width: 20px;"></a>
                         </div>
                     </div>
                 </div>
@@ -261,10 +261,10 @@
                         <div class="vtuber-role">VTuber / Gamer</div>
                         <p class="vtuber-description">The Coolest Prince from Arcane's Kingdom who defends his beyond kingdom with all his heart and soul. named Aru Masashi</p>
                         <div class="social-links">
-                            <a href="https://www.youtube.com/@aru.masashi" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
-                            <a href="https://twitter.com/aru_masashi" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719134871623/X.png?ex=67d31772&is=67d1c5f2&hm=0b5b0213c7ef5158764dcd37966ef0469f5090a71e59f65f7476035f7283704f&" alt="Twitter" style="width: 20px;"></a>
-                            <a href="https://www.instagram.com/aru.masashi/" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719587725333/IG.png?ex=67d31772&is=67d1c5f2&hm=7c027b2fe3baf159eb33f89f0bb5fa757033dca04cdd6423bf6e17048b7cda96&" alt="Instagram" style="width: 20px;"></a>
-                            <a href="https://www.tiktok.com/@aru.masashii?enable_tiktok_webview=true" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720602746923/TT.png?ex=67d31773&is=67d1c5f3&hm=0522f8977251b11098bcd5fabd90956fc5f2d5e39ba99ac9f36c53bfe6d36e65&" alt="TikTok" style="width: 20px;"></a>
+                            <a href="https://www.youtube.com/@aru.masashi" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube" style="width: 20px;"></a>
+                            <a href="https://twitter.com/aru_masashi" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853226946593/2.png?ex=67d5d983&is=67d48803&hm=81ad7a1a422f41d87d067d5e5a7125a16201e8cfde1bf625f01573fa0993256c&" alt="Twitter" style="width: 20px;"></a>
+                            <a href="https://www.instagram.com/aru.masashi/" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853696835624/3.png?ex=67d5d984&is=67d48804&hm=411e0a8a5a76e1787b5d318afb0cba7f9cd6aa62018b79f16d918b40e6e690ea&" alt="Instagram" style="width: 20px;"></a>
+                            <a href="https://www.tiktok.com/@aru.masashii?enable_tiktok_webview=true" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854413930557/5.png?ex=67d5d984&is=67d48804&hm=971b461097ad8fba1e4a681d65b4b6c56a50420355264313d98f5914b98bb006&" alt="TikTok" style="width: 20px;"></a>
                         </div>
                     </div>
                 </div>
@@ -277,9 +277,9 @@
                         <div class="vtuber-role">VTuber/ Gamer / Digital Artist </div>
                         <p class="vtuber-description">The Ghostly Guardian of the Internet Café</p>
                         <div class="social-links">
-                            <a href="https://youtube.com/@felix_kato?si=OKUX7_dnAsQjA93E" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
-                            <a href="https://x.com/FelixKato_" class="social-button" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719134871623/X.png?ex=67d31772&is=67d1c5f2&hm=0b5b0213c7ef5158764dcd37966ef0469f5090a71e59f65f7476035f7283704f&" alt="Twitter" style="width: 20px;"></a>
-                            <a href="https://www.instagram.com/felix_nyannn" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719587725333/IG.png?ex=67d31772&is=67d1c5f2&hm=7c027b2fe3baf159eb33f89f0bb5fa757033dca04cdd6423bf6e17048b7cda96&" alt="Instagram" style="width: 20px;"></a>
+                            <a href="https://youtube.com/@felix_kato?si=OKUX7_dnAsQjA93E" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube" style="width: 20px;"></a>
+                            <a href="https://x.com/FelixKato_" class="social-button" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853226946593/2.png?ex=67d5d983&is=67d48803&hm=81ad7a1a422f41d87d067d5e5a7125a16201e8cfde1bf625f01573fa0993256c&" alt="Twitter" style="width: 20px;"></a>
+                            <a href="https://www.instagram.com/felix_nyannn" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853696835624/3.png?ex=67d5d984&is=67d48804&hm=411e0a8a5a76e1787b5d318afb0cba7f9cd6aa62018b79f16d918b40e6e690ea&" alt="Instagram" style="width: 20px;"></a>
                         </div>
                     </div>
                 </div>
@@ -292,10 +292,10 @@
                         <div class="vtuber-role">VTuber / Gamer</div>
                         <p class="vtuber-description">The Reincarnation of Batik</p>
                         <div class="social-links">
-                            <a href="https://www.youtube.com/@RizkyKyoya" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
-                            <a href="https://x.com/rizky_kyouya" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719134871623/X.png?ex=67d31772&is=67d1c5f2&hm=0b5b0213c7ef5158764dcd37966ef0469f5090a71e59f65f7476035f7283704f&" alt="Twitter" style="width: 20px;"></a>
-                            <a href="https://www.instagram.com/rizky_kyoya" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719587725333/IG.png?ex=67d31772&is=67d1c5f2&hm=7c027b2fe3baf159eb33f89f0bb5fa757033dca04cdd6423bf6e17048b7cda96&" alt="Instagram" style="width: 20px;"></a>
-                            <a href="https://www.tiktok.com/@rizky_kyoya" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720602746923/TT.png?ex=67d31773&is=67d1c5f3&hm=0522f8977251b11098bcd5fabd90956fc5f2d5e39ba99ac9f36c53bfe6d36e65&" alt="TikTok" style="width: 20px;"></a>
+                            <a href="https://www.youtube.com/@RizkyKyoya" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube" style="width: 20px;"></a>
+                            <a href="https://x.com/rizky_kyouya" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853226946593/2.png?ex=67d5d983&is=67d48803&hm=81ad7a1a422f41d87d067d5e5a7125a16201e8cfde1bf625f01573fa0993256c&" alt="Twitter" style="width: 20px;"></a>
+                            <a href="https://www.instagram.com/rizky_kyoya" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853696835624/3.png?ex=67d5d984&is=67d48804&hm=411e0a8a5a76e1787b5d318afb0cba7f9cd6aa62018b79f16d918b40e6e690ea&" alt="Instagram" style="width: 20px;"></a>
+                            <a href="https://www.tiktok.com/@rizky_kyoya" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854413930557/5.png?ex=67d5d984&is=67d48804&hm=971b461097ad8fba1e4a681d65b4b6c56a50420355264313d98f5914b98bb006&" alt="TikTok" style="width: 20px;"></a>
                         </div>
                     </div>
                 </div>
@@ -308,10 +308,10 @@
                         <div class="vtuber-role">VTuber / Horror / Cooking</div>
                         <p class="vtuber-description">A Cruel Darklord who comes from the Depths of the Abyss</p>
                         <div class="social-links">
-                            <a href="https://www.youtube.com/@KokoNatsuuu" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
-                            <a href="https://x.com/KokoNatsuuu_" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719134871623/X.png?ex=67d31772&is=67d1c5f2&hm=0b5b0213c7ef5158764dcd37966ef0469f5090a71e59f65f7476035f7283704f&" alt="Twitter" style="width: 20px;"></a>
-                            <a href="https://www.instagram.com/kokonatsuuu_" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719587725333/IG.png?ex=67d31772&is=67d1c5f2&hm=7c027b2fe3baf159eb33f89f0bb5fa757033dca04cdd6423bf6e17048b7cda96&" alt="Instagram" style="width: 20px;"></a>
-                            <a href="https://www.tiktok.com/@kokonatsuuu_" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720602746923/TT.png?ex=67d31773&is=67d1c5f3&hm=0522f8977251b11098bcd5fabd90956fc5f2d5e39ba99ac9f36c53bfe6d36e65&" alt="TikTok" style="width: 20px;"></a>
+                            <a href="https://www.youtube.com/@KokoNatsuuu" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube" style="width: 20px;"></a>
+                            <a href="https://x.com/KokoNatsuuu_" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853226946593/2.png?ex=67d5d983&is=67d48803&hm=81ad7a1a422f41d87d067d5e5a7125a16201e8cfde1bf625f01573fa0993256c&" alt="Twitter" style="width: 20px;"></a>
+                            <a href="https://www.instagram.com/kokonatsuuu_" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853696835624/3.png?ex=67d5d984&is=67d48804&hm=411e0a8a5a76e1787b5d318afb0cba7f9cd6aa62018b79f16d918b40e6e690ea&" alt="Instagram" style="width: 20px;"></a>
+                            <a href="https://www.tiktok.com/@kokonatsuuu_" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854413930557/5.png?ex=67d5d984&is=67d48804&hm=971b461097ad8fba1e4a681d65b4b6c56a50420355264313d98f5914b98bb006&" alt="TikTok" style="width: 20px;"></a>
                         </div>
                     </div>
                 </div>
@@ -325,10 +325,10 @@
                     <div class="vtuber-role">VTuber / Gamer</div>
                     <p class="vtuber-description">a High Human who loves discovering and exploring japanese event on Earth</p>
                     <div class="social-links">
-                        <a href="https://youtube.com/@dannyvtuberid5276?si=OmGDkHLw1OGoz2GE" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720200224850/YT.png?ex=67d31772&is=67d1c5f2&hm=f983614e5c17c4482c7e9c05aa7f283c834057370b8a560337cfcb5faadae0d5&" alt="YouTube" style="width: 20px;"></a>
-                        <a href="https://x.com/DannyVtuberID?t=9HHmk-DezkMoh5E9DONOfw&s=09" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719134871623/X.png?ex=67d31772&is=67d1c5f2&hm=0b5b0213c7ef5158764dcd37966ef0469f5090a71e59f65f7476035f7283704f&" alt="Twitter" style="width: 20px;"></a>
-                        <a href="https://www.instagram.com/dannymiraistar" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435719587725333/IG.png?ex=67d31772&is=67d1c5f2&hm=7c027b2fe3baf159eb33f89f0bb5fa757033dca04cdd6423bf6e17048b7cda96&" alt="Instagram" style="width: 20px;"></a>
-                        <a href="https://www.tiktok.com/@dannymiraistar?_t=ZS-8ucy1JfHsPw&_r=1" class="social-button"><img src="https://cdn.discordapp.com/attachments/1302256632163729408/1349435720602746923/TT.png?ex=67d31773&is=67d1c5f3&hm=0522f8977251b11098bcd5fabd90956fc5f2d5e39ba99ac9f36c53bfe6d36e65&" alt="TikTok" style="width: 20px;"></a>
+                        <a href="https://youtube.com/@dannyvtuberid5276?si=OmGDkHLw1OGoz2GE" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube" style="width: 20px;"></a>
+                        <a href="https://x.com/DannyVtuberID?t=9HHmk-DezkMoh5E9DONOfw&s=09" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853226946593/2.png?ex=67d5d983&is=67d48803&hm=81ad7a1a422f41d87d067d5e5a7125a16201e8cfde1bf625f01573fa0993256c&" alt="Twitter" style="width: 20px;"></a>
+                        <a href="https://www.instagram.com/dannymiraistar" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853696835624/3.png?ex=67d5d984&is=67d48804&hm=411e0a8a5a76e1787b5d318afb0cba7f9cd6aa62018b79f16d918b40e6e690ea&" alt="Instagram" style="width: 20px;"></a>
+                        <a href="https://www.tiktok.com/@dannymiraistar?_t=ZS-8ucy1JfHsPw&_r=1" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854413930557/5.png?ex=67d5d984&is=67d48804&hm=971b461097ad8fba1e4a681d65b4b6c56a50420355264313d98f5914b98bb006&" alt="TikTok" style="width: 20px;"></a>
                     </div>
                 </div>
             </div>
