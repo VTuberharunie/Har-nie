@@ -26,7 +26,7 @@
         }
         
         .logo {
-            font-size: 32px;
+            font-size: 34px;
             font-weight: bold;
         }
         
@@ -54,6 +54,7 @@
             font-size: 18px;
         }
         
+        .menu a:hover {
 
         }
         
