@@ -259,7 +259,7 @@
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Aru Masashi</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
-                        <p class="vtuber-description">The Coolest Prince from Arcane's Kingdom who defends his beyond kingdom with all his heart and soul. named Aru Masashi</p>
+                        <p class="vtuber-description">The Coolest Prince from Arcane's Kingdom who defends his beyond kingdom with all his heart and soul.</p>
                         <div class="social-links">
                             <a href="https://www.youtube.com/@aru.masashi" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube" style="width: 20px;"></a>
                             <a href="https://twitter.com/aru_masashi" class="social-button"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853226946593/2.png?ex=67d5d983&is=67d48803&hm=81ad7a1a422f41d87d067d5e5a7125a16201e8cfde1bf625f01573fa0993256c&" alt="Twitter" style="width: 20px;"></a>
