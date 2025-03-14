@@ -54,8 +54,7 @@
             font-size: 18px;
         }
         
-        .menu a:hover {
-            text-decoration: none;
+
         }
         
         .hero {
