@@ -19,9 +19,9 @@
         }
         
         header {
-            background: #f9f9f9;
+            background: #ffffff;
             color: white;
-            padding: 20px 0;
+            padding: 10px 0;
             text-align: center;
         }
         
@@ -32,7 +32,7 @@
         
         nav {
             background-color: #660fd9;
-            padding: 10px 0;
+            padding: 5px 0;
         }
         
         .menu {
