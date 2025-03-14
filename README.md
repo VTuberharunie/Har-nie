@@ -200,6 +200,7 @@
     <nav>
         <div class="container" style="display: flex; justify-content: space-between; align-items: center;">
             <ul class="menu">
+                <li><a href="#home">Home</a></li>
                 <li><a href="#vtubers">VTubers</a></li>
                 <li><a href="#content">Content</a></li>
                 <li><a href="#schedule">Schedule</a></li>
