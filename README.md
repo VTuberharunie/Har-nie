@@ -21,7 +21,7 @@
         header {
             background: #f9f9f9;
             color: white;
-            padding: 15px 0;
+            padding: 20px 0;
             text-align: center;
         }
         
@@ -31,7 +31,7 @@
         }
         
         nav {
-            background-color: #8a5ac9;
+            background-color: #660fd9;
             padding: 10px 0;
         }
         
@@ -55,7 +55,7 @@
         }
         
         .menu a:hover {
-
+            text-decoration: none;
         }
         
         .hero {
