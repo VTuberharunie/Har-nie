@@ -94,6 +94,8 @@
             background-color: white;
             border-radius: 10px;
             overflow: hidden;
+            width: 100%;
+            height: 550px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s ease;
         }
