@@ -330,8 +330,6 @@
                 </div>
 
                 <!-- VTuber 4 -->
-                <div class="vtuber-card
-                                <!-- VTuber 4 -->
                 <div class="vtuber-card">
                     <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208740783161426/IMG_20250226_035752_687.webp?ex=67d5e761&is=67d495e1&hm=f233857c6a98851c90d7ad37f82f1ec3b603bd642e2ef1619f13b865fbcc42ab&" alt="Felix Kato" class="vtuber-image">
                     <div class="vtuber-info">
