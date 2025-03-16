@@ -289,10 +289,10 @@
                         <div class="vtuber-role">VTuber / Gamer</div>
                         <p class="vtuber-description">Ryuga Ranjaya is the Spirit Wolf King tasked with maintaining the balance of the world.</p>
                         <div class="social-links">
-                            <a href="https://youtube.com/@ryugaranjaya?si=P5IptDy9svmC4Gyx"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854057283695/4.png?ex=67d5d984&is=67d48804&hm=6cc8ceaf475441439b6057278bf381c67066eaf82cf73d258b1308949eeba1db&" alt="YouTube"></a>
-                            <a href="https://twitter.com/RyugaRanjayaa?t=MiGvSFFbUYrJTBBUf4F5FQ&s=09"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853226946593/2.png?ex=67d5d983&is=67d48803&hm=81ad7a1a422f41d87d067d5e5a7125a16201e8cfde1bf625f01573fa0993256c&" alt="Twitter"></a>
-                            <a href="https://www.instagram.com/ryugaranjaya"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193853696835624/3.png?ex=67d5d984&is=67d48804&hm=411e0a8a5a76e1787b5d318afb0cba7f9cd6aa62018b79f16d918b40e6e690ea&" alt="Instagram"></a>
-                            <a href="https://www.tiktok.com/@ryugaranjaya"><img src="https://cdn.discordapp.com/attachments/812966246806192128/1350193854413930557/5.png?ex=67d5d984&is=67d48804&hm=971b461097ad8fba1e4a681d65b4b6c56a50420355264313d98f5914b98bb006&" alt="TikTok"></a>
+                            <a href="https://youtube.com/@ryugaranjaya?si=P5IptDy9svmC4Gyx"><img src="https://media.discordapp.net/attachments/1350760676590882817/1350761753017061459/4.png?ex=67d7ea69&is=67d698e9&hm=e19b7dc265c2ee3ffcb2d5c79de0335d10e7854848b44a1bea8fcfc834d2294c&=&format=webp&quality=lossless&width=743&height=743" alt="YouTube"></a>
+                            <a href="https://twitter.com/RyugaRanjayaa?t=MiGvSFFbUYrJTBBUf4F5FQ&s=09"><img src="https://media.discordapp.net/attachments/1350760676590882817/1350761751565570118/2.png?ex=67d7ea69&is=67d698e9&hm=09ef9ef74d31556820591336e1c90fafc5dbb0d232239a01a1406e22bce24e4e&=&format=webp&quality=lossless&width=743&height=743" alt="Twitter"></a>
+                            <a href="https://www.instagram.com/ryugaranjaya"><img src="https://media.discordapp.net/attachments/1350760676590882817/1350761752517935176/3.png?ex=67d7ea69&is=67d698e9&hm=61c867a3d9dac5b745d247765d1019e709db7ef12d6f73d69f9dc7c1095aad3d&=&format=webp&quality=lossless&width=743&height=743" alt="Instagram"></a>
+                            <a href="https://www.tiktok.com/@ryugaranjaya"><img src="https://media.discordapp.net/attachments/1350760676590882817/1350761753763643413/5.png?ex=67d7ea6a&is=67d698ea&hm=406dc6b4d3f16a9ddb7f8274fdad8c3dd4a46f6d6b4ee26a468896119c5cd5d7&=&format=webp&quality=lossless&width=743&height=743" alt="TikTok"></a>
                         </div>
                     </div>
                 </div>
