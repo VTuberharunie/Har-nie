@@ -346,7 +346,7 @@
 
                 <!-- VTuber 5 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/1302256632163729408/1350487008622936145/new.png?ex=67d6ea89&is=67d59909&hm=02013a9bc88f2d9d56a3c1b3c585f1902566ef618ab4d61bbd990143c3045285&" alt="Rizky Kyoya" class="vtuber-image">
+                    <img src="https://media.discordapp.net/attachments/1302256632163729408/1350487008622936145/new.png?ex=67d79349&is=67d641c9&hm=b66d9e1fc0889fddde1f51805ad1772b87daa664f5d084881245c762ee5275b9&=&format=webp&quality=lossless&width=847&height=847" alt="Rizky Kyoya" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Rizky Kyoya</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
@@ -362,7 +362,7 @@
 
                 <!-- VTuber 6 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208708009000980/Aduh_gantengnyaaa....jpg?ex=67d738d9&is=67d5e759&hm=06fde7eb58f8a8257d76dbe7a06236f859e9a02fb55a24e6d5fc64e5eefec089&" alt="Coconatsu" class="vtuber-image">
+                    <img src="https://media.discordapp.net/attachments/812966246806192128/1350208708009000980/Aduh_gantengnyaaa....jpg?ex=67d7e199&is=67d69019&hm=3b98a4a37152626c896804a81f0a775150c89cd43380bdd6ecdbe93ff8f4dbc5&=&format=webp&width=847&height=847" alt="Coconatsu" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Coconatsu</h3>
                         <div class="vtuber-role">VTuber / Gamer / Cooker</div>
@@ -378,7 +378,7 @@
 
                 <!-- VTuber 7 -->
                 <div class="vtuber-card">
-                    <img src="https://png.pngtree.com/png-clipart/20220206/original/pngtree-alien-vector-green-skin-cute-png-image_7262993.png" alt="Danny Miraistar" class="vtuber-image">
+                    <img src="https://cdn.discordapp.com/attachments/1350761100957843456/1350761219564371968/3.png?ex=67d7e9ea&is=67d6986a&hm=45187abff3098aecd309a89b4119e20afe24404c50005d8e9f38257f51734723&format=webp&quality=lossless" alt="Danny Miraistar" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Danny Miraistar</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
