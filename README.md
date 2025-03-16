@@ -283,7 +283,7 @@
             <div class="vtubers-grid">
                 <!-- VTuber 1 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208575179587735/IMG_1094.png?ex=67d5e739&is=67d495b9&hm=ef457c0aba708a40f68f8365113122754da8e86a30287d9c8e83c2aee077c57a&" alt="Ryuga Ranjaya" class="vtuber-image">
+                    <img src="https://png.pngtree.com/png-clipart/20220206/original/pngtree-alien-vector-green-skin-cute-png-image_7262993.png" alt="Ryuga Ranjaya" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Ryuga Ranjaya</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
@@ -299,7 +299,7 @@
 
                 <!-- VTuber 2 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208620062576700/Naana_milktea.png?ex=67d5e744&is=67d495c4&hm=b8aa0d6cd765aecb4521b328d0f990a253dd2185df51e32a644a2a14d6d91981&" alt="Kokona Naana" class="vtuber-image">
+                    <img src="https://png.pngtree.com/png-clipart/20220206/original/pngtree-alien-vector-green-skin-cute-png-image_7262993.png" alt="Kokona Naana" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Kokona Naana</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
