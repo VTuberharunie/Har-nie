@@ -292,7 +292,7 @@
                             <a href="https://youtube.com/@ryugaranjaya?si=P5IptDy9svmC4Gyx"><img src="https://media.discordapp.net/attachments/1350760676590882817/1350761753017061459/4.png?ex=67d7ea69&is=67d698e9&hm=e19b7dc265c2ee3ffcb2d5c79de0335d10e7854848b44a1bea8fcfc834d2294c&=&format=webp&quality=lossless&width=743&height=743" alt="YouTube"></a>
                             <a href="https://twitter.com/RyugaRanjayaa?t=MiGvSFFbUYrJTBBUf4F5FQ&s=09"><img src="https://media.discordapp.net/attachments/1350760676590882817/1350761751565570118/2.png?ex=67d7ea69&is=67d698e9&hm=09ef9ef74d31556820591336e1c90fafc5dbb0d232239a01a1406e22bce24e4e&=&format=webp&quality=lossless&width=743&height=743" alt="Twitter"></a>
                             <a href="https://www.instagram.com/ryugaranjaya"><img src="https://media.discordapp.net/attachments/1350760676590882817/1350761752517935176/3.png?ex=67d7ea69&is=67d698e9&hm=61c867a3d9dac5b745d247765d1019e709db7ef12d6f73d69f9dc7c1095aad3d&=&format=webp&quality=lossless&width=743&height=743" alt="Instagram"></a>
-                            <a href="https://www.tiktok.com/@ryugaranjaya"><img src="https://media.discordapp.net/attachments/1350760676590882817/1350761753763643413/5.png?ex=67d7ea6a&is=67d698ea&hm=406dc6b4d3f16a9ddb7f8274fdad8c3dd4a46f6d6b4ee26a468896119c5cd5d7&=&format=webp&quality=lossless&width=743&height=743" alt="TikTok"></a>
+                            <a href="https://cdn.discordapp.com/attachments/1302256632163729408/1350767677408284735/Tak_berjudul278_20250316164811.png?ex=67d7efee&is=67d69e6e&hm=bbd7652b26988d353349b82f2e78f84baeaacddd36cbdf7acaf6bc1f8d533874&" alt="TikTok"></a>
                         </div>
                     </div>
                 </div>
