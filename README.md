@@ -315,7 +315,7 @@
 
                 <!-- VTuber 3 -->
                 <div class="vtuber-card">
-                    <img src="https://media.discordapp.net/attachments/812966246806192128/1350209130828140666/2.png?ex=67d7e1fe&is=67d6907e&hm=4c5a53037181c67e81913b2f54e69327e410286fd2f973cd30400fa9af7bce6d&=&format=webp&quality=lossless&width=847&height=847" alt="Aru Masashi" class="vtuber-image">
+                    <img src="https://cdn.discordapp.com/attachments/1333074878458232843/1350769255058247734/Desain_tanpa_judul.png?ex=67d7f166&is=67d69fe6&hm=b7a9671aa308eb3b12c0353bd3611e015f9b503544d97f8de41bb98bc458fdc1&format=webp&quality=lossless&width=847&height=847" alt="Aru Masashi" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Aru Masashi</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
