@@ -446,7 +446,7 @@
                     <p>Ryuga Ranjaya  : -</p>
                     <p>Kokona Naana   : -</p>
                     <p>Aru Masashi    : -</p>
-                    <p>Felix Kato     : -</p>
+                    <p>Felix Kato     : 14.00</p>
                     <p>Rizky Kyoya    : 14:00</p>
                     <p>Coconatsu      : -</p>
                     <p>Danny Miraistar: -</p>
