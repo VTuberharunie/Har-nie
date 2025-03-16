@@ -378,7 +378,7 @@
 
                 <!-- VTuber 7 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208458363764888/Ehehemmmnn___art_by___Elysiaa_-__phourw_WEBP.webp?ex=67d5e71e&is=67d4959e&hm=e5906a304f1ec1e1396607d4c469ef91b63f80cdbeb02ac07bd1e722445a786a&" alt="Danny Miraistar" class="vtuber-image">
+                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208458363764888/Ehehemmmnn___art_by___Elysiaa_-__phourw_WEBP.webp?ex=67d7389e&is=67d5e71e&hm=2e722e35f7d630dcd7d285e2b85eff61d6f28fa884c8242c4c818fd184ebcbab&" alt="Danny Miraistar" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Danny Miraistar</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
