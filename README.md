@@ -362,7 +362,7 @@
 
                 <!-- VTuber 6 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208708009000980/Aduh_gantengnyaaa....jpg?ex=67d5e759&is=67d495d9&hm=37e5badd7e88262c0c79f723f05944afd0a938482803ca8f9eb13f26f26188a2&" alt="Coconatsu" class="vtuber-image">
+                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208708009000980/Aduh_gantengnyaaa....jpg?ex=67d738d9&is=67d5e759&hm=06fde7eb58f8a8257d76dbe7a06236f859e9a02fb55a24e6d5fc64e5eefec089&" alt="Coconatsu" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Coconatsu</h3>
                         <div class="vtuber-role">VTuber / Gamer / Cooker</div>
@@ -446,7 +446,7 @@
                     <p>Ryuga Ranjaya  : -</p>
                     <p>Kokona Naana   : -</p>
                     <p>Aru Masashi    : -</p>
-                    <p>Felix Kato     : 14.00</p>
+                    <p>Felix Kato     : -</p>
                     <p>Rizky Kyoya    : 14:00</p>
                     <p>Coconatsu      : -</p>
                     <p>Danny Miraistar: -</p>
