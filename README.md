@@ -315,7 +315,7 @@
 
                 <!-- VTuber 3 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350209130828140666/2.png?ex=67d6907e&is=67d53efe&hm=7a97e247787f1b455710a25af5b02496ae972645b74fff00ee5074f688fec030&" alt="Aru Masashi" class="vtuber-image">
+                    <img src="https://media.discordapp.net/attachments/812966246806192128/1350209130828140666/2.png?ex=67d7e1fe&is=67d6907e&hm=4c5a53037181c67e81913b2f54e69327e410286fd2f973cd30400fa9af7bce6d&=&format=webp&quality=lossless&width=847&height=847" alt="Aru Masashi" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Aru Masashi</h3>
                         <div class="vtuber-role">VTuber / Gamer</div>
@@ -331,7 +331,7 @@
 
                 <!-- VTuber 4 -->
                 <div class="vtuber-card">
-                    <img src="https://cdn.discordapp.com/attachments/812966246806192128/1350208740783161426/IMG_20250226_035752_687.webp?ex=67d5e761&is=67d495e1&hm=f233857c6a98851c90d7ad37f82f1ec3b603bd642e2ef1619f13b865fbcc42ab&" alt="Felix Kato" class="vtuber-image">
+                    <img src="https://media.discordapp.net/attachments/1350761100957843456/1350762676334235708/IMG_20250226_035752_687_1.webp?ex=67d7eb45&is=67d699c5&hm=71c721c90a0c09a14a9b3d9aca8b38457cc1c4fc9a0921a6ed2b30e57fb2a3cb&=&format=webp&width=847&height=847" alt="Felix Kato" class="vtuber-image">
                     <div class="vtuber-info">
                         <h3 class="vtuber-name">Felix Kato</h3>
                         <div class="vtuber-role">VTuber / Gamer / Digital Artist</div>
