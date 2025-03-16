@@ -272,14 +272,14 @@
 
     <section class="hero" id="home">
         <div class="container">
-            <h1>Welcome to HARŪNIE VTuber Group</h1>
+            <h1>Welcome to HARŪNIE Community</h1>
             <p>Discover our amazing virtual talents bringing joy and entertainment to fans worldwide!</p>
         </div>
     </section>
 
     <main class="container">
         <section id="vtubers">
-            <h2 class="section-title">Our VTubers</h2>
+            <h2 class="section-title">Our Talents</h2>
             <div class="vtubers-grid">
                 <!-- VTuber 1 -->
                 <div class="vtuber-card">
