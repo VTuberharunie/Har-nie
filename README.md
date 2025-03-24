@@ -651,7 +651,7 @@
                 <div class="day">
                     <h3>                    <h3>Friday</h3>
                     <p>Ryuga Ranjaya  : -</p>
-                    <p>Kokona Naana   : -</p>
+                    <p>Kokona Naana   : 08.30</p>
                     <p>Aru Masashi    : -</p>
                     <p>Felix Kato     : -</p>
                     <p>Rizky Kyoya    : 14:00</p>
